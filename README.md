@@ -1,5 +1,5 @@
 # MeowOS
- A Operating System written in C# (COSMOS). 
+ An Operating System written in C# (COSMOS). 
 
 Commands Supported:
 - Help -> Help Information.
